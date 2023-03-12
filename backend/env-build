@@ -1,0 +1,4 @@
+DB_CONNECTION_NAME='assignment:asia-east1:ivan-mysql'
+DB_USER = 'dev'
+DB_PASSWORD = 'password'
+DB_NAME = 'docs'
